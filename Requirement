@@ -1,12 +1,12 @@
 List the requirements for the project
 
 Requirements
-An Online shopping application for customers to access the TF on their phone.
+An Online shopping application for customers to access the TF store on their phone.
 A secure (and reliable) platform for the TF Owner to showcase all their products, an app for customers to browse through and make secure payment.
 Speed on Android and iOS.
 App should be ready within 5 months and $50k, with weekly evaluation by the project guide.
 
-User requirment 
+User requirement 
 An App For Shopping Dresses. 
 Easy Navigation
 Proper Categorisation
@@ -36,3 +36,18 @@ Put A Conversion Scale cm to size
 Owner/ Website admin
 Should be able to upload the product photo (5), description, price of each item.Download reports regarding category wise sales, and other custom.
 
+Types of Requirements
+
+|Requirements ID|Requirements Desc|type|Soucre|
+1|Develop an Online shopping app- TF Store for the TF fashions, that helps customers with a digital shopping experience of the store|Functional
+||The app shud be ready within 6 months under $50K budget|Business||
+||It must have varied options that's clearly categorised.|Functional||
+||Each product should have the description price, indication necessary.|Functional|||
+||Safe and secure payments gateway needed|Functional|
+||Ease of app navigation, compatible on iOS and Android|Functional|
+||Keep the app database secure|Functional|
+||Give real time update of purchased items|Functional|
+||Update shopping categories regularly|Functional| 
+No bug to be present in the software, no scope for any third party bugs to enter. 
+No third party involvement for downloading or app usage Website Admin should access the app easily
+||||
