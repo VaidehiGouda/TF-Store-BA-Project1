@@ -39,15 +39,13 @@ Should be able to upload the product photo (5), description, price of each item.
 Types of Requirements
 
 |Requirements ID|Requirements Desc|type|Soucre|
-1|Develop an Online shopping app- TF Store for the TF fashions, that helps customers with a digital shopping experience of the store|Functional
-||The app shud be ready within 6 months under $50K budget|Business||
-||It must have varied options that's clearly categorised.|Functional||
-||Each product should have the description price, indication necessary.|Functional|||
-||Safe and secure payments gateway needed|Functional|
-||Ease of app navigation, compatible on iOS and Android|Functional|
-||Keep the app database secure|Functional|
-||Give real time update of purchased items|Functional|
-||Update shopping categories regularly|Functional| 
-No bug to be present in the software, no scope for any third party bugs to enter. 
-No third party involvement for downloading or app usage Website Admin should access the app easily
-||||
+|1|Develop an Online shopping app- TF Store for the TF fashions, that helps customers with a digital shopping experience of the store|Functional|
+|2|The app shud be ready within 6 months under $50K budget|Business|TF Owner|
+|3|Update shopping categories regularly with varied options|Functional|project manager|
+|4|Each product should have the description price, indication necessary.|Functional||
+|5|Safe and secure payments gateway needed|Functional|web dev/testers|
+|6|Ease of app navigation, compatible on iOS and Android|Functional|web dev/ testers|
+|7|Keep the app database secure|Functional|web dev/ testers|
+|8|Give real time update of purchased items|Functional|web dev/ testers|
+|9|No bug to be present in the software, no scope for any third party bugs to enter|Functional|project manager|
+|10|No third party involvement for downloading or app usage Website Admin should access the app easily|Functoinal|project manager||
