@@ -38,7 +38,8 @@ Should be able to upload the product photo (5), description, price of each item.
 
 Types of Requirements
 
-|Requirements ID|Requirements Desc|type|Soucre|
+|Requirements ID|Requirements Desc|Type|Soucre|
+|---|---|---|---|
 |1|Develop an Online shopping app- TF Store for the TF fashions, that helps customers with a digital shopping experience of the store|Functional|
 |2|The app shud be ready within 6 months under $50K budget|Business|TF Owner|
 |3|Update shopping categories regularly with varied options|Functional|project manager|
