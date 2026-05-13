@@ -19,20 +19,21 @@ Stakeholders Identification
 
 Interest Influence graph
 
-|Sl. no.|Stakeholders|Interest|Influence||--|--|--|--|
-Users/ Customers- high interest, low influence
-TF Owners- high interest high influence
-Project manager- high interest high to mid influence
-Storehouse staff-mid interest, low influence
-App management/ app Admin 
-Web dev- high interest, low influence
-Testers- high interest, low influence
-Packing team shipping -low interest, low influence
-Marketing/ Sales- high interest, low influence
-Customer service- low interest, low influence
-Law regulators- high interest, low influence
-Govt Regulations low interest, high influence
-Competitors low interest, low influence
-Investor/financal- high interest, high influence
-TF employees- high interest, low influence
+|Sl. no.|Stakeholders|Interest|Influence|
+|--|--|--|--|
+|1|Users/ Customers|high interest|low influence|
+|2|TF Owners|high interest|high influence|
+|3|Project manager|high interest|high to mid influence|
+|4|Storehouse staff-mid interest|low influence|
+|5|App management/ app Admin |||
+|6|Web dev|high interest|low influence|
+|7|Testers|high interest|low influence|
+|8|Packing team shipping|low interest|low influence|
+|9|Marketing/ Sales|high interest|low influence|
+|10|Customer service|low interest|low influence|
+|11|Law regulators|high interest|low influence|
+|12|Govt Regulations|low interest|high influence|
+|13|Competitors|low interest|low influence|
+|14|Investor/financal|high interest|high influence|
+|15|TF employees|high interest|low influence|
 
