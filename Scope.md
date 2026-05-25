@@ -4,9 +4,14 @@ Make an app that shows all the available options for Men, women and kids dresses
 
 In scope- 
 Make an app that enhances the sales of TF and eases customers search on the app, give lots of options. Easy to navigate, search and make a purchase. Getting email and message updates about the order, shipping details and confirmations at all stages. 
+Secure payment and user information storage. Get user consent before storing any information.
+Stock availability and order confirmation is manually entered.
 
 Out of scope- 
 We do not provide a web version of the app. No international purchases or payments. Doesn't include multiple payment methods.
+Does not promise the app working in heavy/ traffic.
+Doesn't include giving notification alerts.
+Stock availability check not automated.
 
 ## Objectives and Deliverables
 For the ease of shopping at home, to know what all a customer can get in TF, a TF Store application is to be made, that lets the user browse the dress options at TF and purchase from the TF Store application itself and hence their product should be delivered to the door.
