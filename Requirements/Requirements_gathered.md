@@ -66,6 +66,8 @@ Customer service communication time should be 7am to 9pm, not late nights
 11. Law regulators- 
 Comply with mobile viewing standards
 
+12. tf ownre
+
 15. TF employees
 Paid/ salary on time
 Flexible working hours and fixed work period
