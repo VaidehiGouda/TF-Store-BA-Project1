@@ -11,12 +11,6 @@ I would be happy to see price comparison with other apps.
 I should be able to track my order. 
 I should not receive wrong order. And should be easily able to return the wrongly shipped order if any.
 
-3. Manager
-
-2BA, 10 dev team, 10 testers, processor laptops, monitor to each.
-Monthly meeting with BA and dev head, head of all teams and TF owner
-Weekly evaluations
-
 2. Owner
 
 A platform to showcase all dresses of TF to the customers. 
@@ -28,6 +22,12 @@ Aim to engage customers on the app by 40 to 50 mins per week
 Development must stay within the allocated budget
 10% of website visitors should be purchasing via the app.
 Sales Analytics Dashboard: Real-time reporting on revenue, conversion rates, average order value, and top-selling dresses.
+
+3. Manager
+
+2BA, 10 dev team, 10 testers, processor laptops, monitor to each.
+Monthly meeting with BA and dev head, head of all teams and TF owner
+Weekly evaluations
 
 5. Website admin
 Should be able to upload the product photo (5), description, price of each item.  Download reports regarding category wise sales, and other custom.
