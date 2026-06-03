@@ -29,6 +29,9 @@ Sales Analytics Dashboard: Real-time reporting on revenue, conversion rates, ave
 Monthly meeting with BA and dev head, head of all teams and TF owner
 Weekly evaluations
 
+4. Storehouse staff
+Absolute synchronization between the brick-and-mortar shelf stock and the app inventory to avoid overselling.
+
 5. Website admin
 Should be able to upload the product photo (5), description, price of each item.  Download reports regarding category wise sales, and other custom.
 Should track each order.
@@ -38,10 +41,8 @@ Should have an update of the inventory
 Strict adherence to data security standards
 Secure API Integration: Stable, encrypted communication tokens between the app frontend and their payment servers.
 Fraud Prevention Data:
-4. Storehouse staff
-Absolute synchronization between the brick-and-mortar shelf stock and the app inventory to avoid overselling.
 
-6/7. Dev/ Test team
+7. Dev/ Test team
 Well-defined user stories and acceptance criteria before coding begins.
 Scalable Architecture
 
