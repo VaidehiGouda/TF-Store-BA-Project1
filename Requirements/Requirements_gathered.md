@@ -66,8 +66,6 @@ Customer service communication time should be 7am to 9pm, not late nights
 11. Law regulators- 
 Comply with mobile viewing standards
 
-12. tf ownre
-
 15. TF employees
 Paid/ salary on time
 Flexible working hours and fixed work period
@@ -88,3 +86,7 @@ Types of Requirements
 |9|No bug to be present in the software, no scope for any third party bugs to enter|Functional|project manager|
 |10|No third party involvement for downloading or app usage Website Admin should access the app easily|Functoinal|project manager||
 
+Functional and NON- Functional Requirements
+|Functionalunc|NON-Functional|
+|---|---|
+|Safe and secure payments gateway needed|oN clicking the pay option, a new payment page should open that displays the payment method. ON Selecting the payment method go to next page that shows the amount to be paid, receiver address, pay option. On clicking pay within 10seconds transaction must happen and return to the app|
